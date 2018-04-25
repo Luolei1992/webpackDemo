@@ -20,3 +20,6 @@ bower_components/
 npm-debug.log
 .module-cache
 .*.sw*
+
+# extract-text-webpack-plugin error https://blog.csdn.net/gezilan/article/details/80020417
+# https://segmentfault.com/a/1190000006178770
